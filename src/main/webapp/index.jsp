@@ -989,6 +989,10 @@
                 DevOps Engineer / Cloud Engineer
             </h2>
 
+              <h2>
+                SpringBoot Devloper / Cloud Engineer
+            </h2>
+
             <p class="hero-description">
 
                 I design, automate and maintain scalable cloud infrastructure
