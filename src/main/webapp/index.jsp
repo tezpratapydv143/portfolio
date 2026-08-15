@@ -981,17 +981,14 @@
             </div>
 
             <h1>
-                Saurabh<br>
-                <span>Kumar</span>
+                Tezpratap<br>
+                <span>Yadav</span>
             </h1>
 
             <h2>
                 DevOps Engineer / Cloud Engineer
             </h2>
 
-              <h2>
-                SpringBoot Devloper / Cloud Engineer
-            </h2>
 
             <p class="hero-description">
 
