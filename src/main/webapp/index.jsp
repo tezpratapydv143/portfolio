@@ -498,7 +498,7 @@
 
 <nav>
   <div class="nav-inner">
-    <div class="nav-logo"><span class="dot"></span> tez.yadav <span style="color:var(--text-faint)">// devops</span></div>
+    <div class="nav-logo"><span class="dot"></span>Tezpratap Yadav</div>
     <input type="checkbox" id="nav-toggle">
     <div class="nav-links">
       <a href="#about">about</a>
@@ -515,7 +515,7 @@
 <header>
   <div class="wrap">
     <div class="terminal">
-      <span class="prompt">tez@infra</span>:~$ <span id="typed"></span><span class="caret"></span>
+      <span class="prompt">SUMMARY : </span><span id="typed"></span><span class="caret"></span>
     </div>
 
     <h1 class="hero-title">Tezpratap Yadav<br><span class="accent">builds pipelines that ship themselves.</span></h1>
@@ -716,7 +716,7 @@
 <script>
   // typing effect
   (function(){
-    var text = "whoami — devops engineer, cloud & pipeline automation";
+    var text = " I am Tezpratap Yadav having 1+ yrs of professional experience as a DevOps Engineer with AWS, Jenkins(CI/CD), Kubernetes, Docker, Terraform, Ansible, Linux.";
     var el = document.getElementById('typed');
     var i = 0;
     var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
