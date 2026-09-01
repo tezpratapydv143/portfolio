@@ -717,7 +717,7 @@
   // typing effect
   (function(){
     var text = " I am Tezpratap Yadav having 1+ yrs of professional experience as a DevOps Engineer with AWS, Jenkins(CI/CD), Kubernetes, Docker, Terraform, Ansible, Linux.";
- var text = " I am Saurabh Yadav having 1+ yrs of professional experience as a DevOps Engineer with AWS, Jenkins(CI/CD), Kubernetes, Docker, Terraform, Ansible, Linux.";
+ 
     var el = document.getElementById('typed');
     var i = 0;
     var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
